@@ -85,6 +85,10 @@ justify-content: space-between;
   
 }
 
+.buy:hover{
+  background-color:rgb(46, 94, 46) ;
+}
+
 .icon{
   margin-right: 5px;
 }
